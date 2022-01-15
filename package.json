@@ -1,0 +1,22 @@
+{
+  "name": "junkie",
+  "version": "1.0.0",
+  "description": "prefix is -",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qm84/Junkie-discord-bot.git"
+  },
+  "author": "qm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qm84/Junkie-discord-bot/issues"
+  },
+  "homepage": "https://github.com/qm84/Junkie-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
